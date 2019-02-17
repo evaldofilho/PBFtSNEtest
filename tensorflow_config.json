@@ -6,7 +6,7 @@
         1000,
         50
       ],
-      "tensorPath": "CadUnico_tSNE_numerico_500_normal.tsv"
+      "tensorPath": "https://github.com/evaldofilho/PBFtSNEtest/blob/master/CadUnico_tSNE_numerico_500_normal.tsv"
     }
   ]
 }
